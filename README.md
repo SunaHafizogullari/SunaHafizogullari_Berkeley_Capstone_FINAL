@@ -60,11 +60,8 @@ We're actively collaborating with 10,000 Degrees to improve our model's performa
 
 #### Outline of project
 
-- [Link to notebook 1 for 2-year segment]()
+- [Link to notebook 1 for Exploratory Data Analysis](https://github.com/SunaHafizogullari/SunaHafizogullari_Berkeley_Capstone_FINAL/blob/main/Part%201_Exploratory%20Data%20Analysis.ipynb)
 - [Link to notebook 2 for 4-year segment]()
--
 
 ##### Contact and Further Information
 E-mail: shafizogullari@gmail.com
-# SunaHafizogullari_Berkeley_Capstone_FINAL
-# SunaHafizogullari_Berkeley_Capstone_FINAL
