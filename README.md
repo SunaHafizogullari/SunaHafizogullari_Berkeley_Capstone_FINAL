@@ -70,7 +70,7 @@ We're actively collaborating with 10,000 Degrees to improve our model's performa
 - [Link to Notebook 1 for Part 1: Exploratory Data Analysis](https://github.com/SunaHafizogullari/SunaHafizogullari_Berkeley_Capstone_FINAL/blob/main/Part%201_Exploratory%20Data%20Analysis.ipynb)
 - [Link to Notebook 2 for Part 2: Model Development and Validation Results Using Traditional ML Algorithms](https://github.com/SunaHafizogullari/SunaHafizogullari_Berkeley_Capstone_FINAL/blob/main/Part%202_Model%20Development%20and%20Validation%20Results%20Using%20Traditional%20ML%20Algorithms.ipynb)
 - [Link to Notebook 3 for Part 3: Model Development and Validation Results Using Ensemble Algorithms](https://github.com/SunaHafizogullari/SunaHafizogullari_Berkeley_Capstone_FINAL/blob/main/Part%203_Model%20Development%20and%20Validation%20Results%20Using%20Ensemble%20Algorithms.ipynb)
-- [Link to Notebook 4 for Part 4: Part 4: Comparison of Model Validation Results](https://github.com/SunaHafizogullari/SunaHafizogullari_Berkeley_Capstone_FINAL/blob/main/Part%204_Comparison%20of%20Models.ipynb)
+- [Link to Notebook 4 for Part 4: Comparison of Model Validation Results](https://github.com/SunaHafizogullari/SunaHafizogullari_Berkeley_Capstone_FINAL/blob/main/Part%204_Comparison%20of%20Models.ipynb)
 - [Link to Notebook 5 for Part 5: Conclusions](https://github.com/SunaHafizogullari/SunaHafizogullari_Berkeley_Capstone_FINAL/blob/main/Part%205%20_Conclusions.ipynb)
 
 ##### Contact and Further Information
