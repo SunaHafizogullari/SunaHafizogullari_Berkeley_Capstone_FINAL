@@ -28,6 +28,9 @@ The student data is provided by 10,000 Degrees and obtained through the National
 - GreatSchools.org for school ratings
 - County information for residence
 
+![image](https://user-images.githubusercontent.com/115050576/227664312-407defbc-196b-4b3d-9092-8b5147600c12.png)
+
+
 #### Methodology
 Classification techniques were employed to determine the students who are facing obstacles in their academic journey and the specific factors that are hindering their success.
 
