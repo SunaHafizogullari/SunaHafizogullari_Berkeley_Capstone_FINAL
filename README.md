@@ -32,7 +32,7 @@ The student data is provided by 10,000 Degrees and obtained through the National
 
 
 #### Methodology
-Classification techniques were employed to determine the students who are facing obstacles in their academic journey and the specific factors that are hindering their success.
+Both traditional classification techniques and ensemble algorithms were employed to determine the students who are facing obstacles in their academic journey and the specific factors that are hindering their success.
 
 #### Results
 After testing several models on the analysis sample, the gradient boosting model was chosen due to its superior performance on both the training and test samples.
@@ -43,6 +43,9 @@ The following observations were made based on the model's ability to rank studen
 - On the training sample, the dropout rate for the highest scoring decile is over nine times greater than that for the lowest scoring decile. - The gap between these two groups is much smaller on the test sample but still noteworthy, with a dropout rate of 65% versus 20%.
 - The dropout rates show no fluctuations in the training sample, indicating a perfect rank ordering of the score. The fluctuations are minimal for the test sample as well, further indicating the model's reliability.
 
+![image](https://user-images.githubusercontent.com/115050576/227664422-ae7ca148-ee8c-446e-8007-b1f23ab51f30.png)
+
+
 Based on our analysis, the likelihood of a student persisting to their second year of college is most strongly influenced by the following top five factors:
 
 - Participation in a summer program offered by their college after high school graduation
@@ -50,6 +53,7 @@ Based on our analysis, the likelihood of a student persisting to their second ye
 - Enrollment in a Success program with a scholarship
 - Race
 - Geographic location of the college attended
+![image](https://user-images.githubusercontent.com/115050576/227664450-ebb20ce6-8fa4-4fe1-abbe-29910dd24bd4.png)
 
 #### Future reseach
 We're actively collaborating with 10,000 Degrees to improve our model's performance by addressing some critical areas:
